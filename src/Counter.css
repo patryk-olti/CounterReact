@@ -1,0 +1,10 @@
+.counterbox{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.counter{
+    font-size: 50px;
+}
